@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ../images/master-oogway.jpeg
+image: ./images/master-oogway.jpeg
 ---
 # Quotes dengan Markdown
 
