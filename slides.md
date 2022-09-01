@@ -35,3 +35,7 @@ src: ./slides/four.md
 src: ./slides/five.md
 ---
 
+---
+src: ./slides/six.md
+---
+
