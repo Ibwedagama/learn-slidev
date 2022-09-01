@@ -6,4 +6,4 @@ layout: center
 
 <br>
 
-Karena dibangun di atas Vue 3, jadi presentasi ini bisa kita build menjadi SPA dan kita deploy di static hosting!
+Karena dibangun di atas Vue 3 presentasi ini bisa kita build menjadi SPA dan kita deploy di static hosting!
