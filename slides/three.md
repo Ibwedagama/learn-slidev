@@ -3,9 +3,9 @@ layout: two-cols
 ---
 # Mau pasang Vue Component juga bisa!
 
-<br>
-
 ```html
+<!-- components/MyCard.vue -->
+
 <template>
   <article class="card">
     <div class="card__title">
