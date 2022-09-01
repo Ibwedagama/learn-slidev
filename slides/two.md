@@ -5,7 +5,9 @@ layout: default
 
 <br>
 
-Kerennya kita bisa pasang code snippet yang support syntax highlighting dan juga bisa kita set focusnya untuk menunjukkan step by step kode kita 🥺
+Kerennya kita bisa pasang code snippet yang support syntax highlighting.
+<br>
+Kita juga bisa set highlightnya untuk menunjukkan step by step kode kita 🥺
 
 ```js {1|2|3|4|all}
 console.log('Pencet Spasi');
