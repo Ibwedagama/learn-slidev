@@ -6,4 +6,4 @@ url: https://www.youtube.com/embed/BM6dXhJh8g4
 
 <br>
 
-Jadi kalau mau masukin video tutorial atau brand bisa juga nih
+Jadi kalau mau masukin video tutorial atau video perkenalan juga bisa nih!
